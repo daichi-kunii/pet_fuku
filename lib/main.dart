@@ -105,7 +105,7 @@ class MyApp extends StatelessWidget {
                     title: Column(
                       children: <Widget>[
                         Text(
-                            'アパレルサンプル',
+                            'アパレルサンプルだよん変更',
                             style: TextStyle(
                               fontWeight: FontWeight.w200,
                             )
